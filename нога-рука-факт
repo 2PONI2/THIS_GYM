@@ -1,0 +1,5 @@
+import random
+me = ['я ленивый', 'я играю во многие игры', 'я веду свой канал']
+
+fact = random.choice(me)
+print(fact)
